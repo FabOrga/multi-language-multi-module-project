@@ -1,7 +1,7 @@
 Multi-language multi-module sample project
 =======================
 
-[![Build status](https://travis-ci.org/FabOrga/multi-language-multi-module-project.svg?branch=master)](https://travis-ci.org/FabOrga/multi-language-multi-module-project) [![Quality Gate](https://nemo.sonarqube.org/api/badges/gate?key=multi-language-multi-module-project)](https://nemo.sonarqube.org/dashboard/index/multi-language-multi-module-project)
+[![Build status](https://staging.travis-ci.org/FabOrga/multi-language-multi-module-project.svg?branch=master)](https://staging.travis-ci.org/FabOrga/multi-language-multi-module-project) [![Quality Gate](https://nemo.sonarqube.org/api/badges/gate?key=multi-language-multi-module-project)](https://nemo.sonarqube.org/dashboard/index/multi-language-multi-module-project)
 
 #### This project is analysed on [Nemo](https://nemo.sonarqube.org)!
 
