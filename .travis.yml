@@ -8,7 +8,6 @@ jdk:
   - oraclejdk8
 
 script:
-  - echo $SONARQUBE_SCANNER_PARAMS
   - sonar-scanner -Dsonar.login=$SONAR_TOKEN
 
 cache:
