@@ -11,7 +11,7 @@ jdk:
 
 script:
   - echo $SONARQUBE_SCANNER_PARAMS
-  - sonar-scanner
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN
 
 cache:
   directories:
