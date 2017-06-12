@@ -2,7 +2,9 @@ language: java
 sudo: false
 install: true
 addons:
-  sonarqube: true
+  sonarqube:
+    organization: "fab"
+  
 
 jdk:
   - oraclejdk8
