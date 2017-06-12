@@ -10,7 +10,7 @@ jdk:
   - oraclejdk8
 
 script:
-  - sonar-scanner -Dsonar.login=$SONAR_TOKEN
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.branch=FAB_ORG
 
 cache:
   directories:
